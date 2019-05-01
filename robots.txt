@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://perubusca.nl/sitemap.xml
